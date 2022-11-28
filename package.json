@@ -1,0 +1,28 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "Testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tdd-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohiandipta/tdd-testing.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "mohisn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohiandipta/tdd-testing/issues"
+  },
+  "homepage": "https://github.com/mohiandipta/tdd-testing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
